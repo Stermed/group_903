@@ -83,4 +83,4 @@ A3	 | B3 |  C3
 ## Заключение
 *В инструкции указаны далеко не все возможности языка разметки Markdown*
 Источники: 
-[Спасибо за помощь!](https://github.com/linarMinachev/Markdown).
+[Спасибо за помощь!](https://github.com/linarMinachev/Markdown)
